@@ -16,5 +16,7 @@ For the css, I used `bootstrap` to reduce the amount of css we need to write. Al
 
 # How to run it
 
-Use `npm start` to run the project.
+First, use `npm install` to install the package.
+
+Then, use `npm start` to run the project.
 
